@@ -1,0 +1,171 @@
+@charset "UTF-8";
+
+h1{
+    color: #87CEFA;
+}
+
+.azulEscuro{
+    color: #87CEFA;
+    font-weight: bold;
+    font-size: 25pt;
+}
+
+h2, .azulClaro{
+    color: #87CEEB	;
+}
+
+/*Quadro1*/
+
+div#quadro1{
+    height: 800px;
+}
+
+div#quadro1 .qd1{
+    
+    box-sizing: border-box;
+    position: relative;  
+    padding: 10px;
+
+}
+
+div#quadro1 img#qdImg1{
+    width: 15%;
+}
+
+div#quadro1 h2#qdTitulo1 {
+    left: 250px;
+    top: -250px;
+}
+
+div#quadro1 p#qdTexto1 {
+    width: 10%;
+    left: 250px;
+    top: -250px;
+}
+
+div#quadro1 img#qdImg2 {
+    left: 450px;
+    top: -600px;
+    width: 5%;
+}
+
+div#quadro1 h2#qdTitulo2{
+    left: 530px;
+    top: -750px;
+}
+
+div#quadro1 p#qdTexto2 {
+    width: 10%;
+    left: 530px;
+    top: -750px;
+}
+
+div#quadro1 img#qdImg3{
+    left: 450px;
+    top: -600px;
+    width: 5%;
+}
+
+div#quadro1 h2#qdTitulo3 {
+    left: 530px;
+    top: -750px;
+}
+
+div#quadro1 p#qdTexto3 {
+    width: 10%;
+    left: 530px;
+    top: -750px;
+}
+
+/*Quadro 2*/
+
+
+div#quadro2{
+    height: 100px;
+    max-width: 800px;
+}
+div#quadro2 .qd2{
+    box-sizing: border-box;
+    position: relative;  
+    padding: 10px;
+
+}
+
+div#quadro2 p#qd2MercadoNacional{
+    left: 120px;
+    top: -100px;
+
+}
+
+div#quadro2 #qd2Img2{
+    left: 450px;
+    top: -170px;
+
+}
+
+div#quadro2 p#qd2Enderecos{
+    left: 560px;
+    top: -300px;
+}
+
+div#quadro2 #qd2Img3{
+    left: 650px;
+    top: -390px;
+
+}
+
+div#quadro2 #qd2Pessoas{
+    left: 800px;
+    top: -520px;
+
+}
+
+/*
+
+div#quadro1 .direita2{
+    box-sizing: border-box; 
+    position: relative;  
+    padding: 20px;
+}
+
+div#quadro1 img.direita2{   
+    left: 470px;
+    bottom: 650px;
+    width: 10%;
+}
+
+div#quadro1 h2.direita2{  
+    left: 600px;
+    bottom: 850px;
+}
+
+div#quadro1 p.direita2{ 
+    left: 600px;
+    bottom: 880px;
+}
+
+div#quadro1 .direita3{
+    box-sizing: border-box; 
+    position: relative;  
+    padding: 20px;
+}
+
+div#quadro1 img.direita3{   
+    left: 470px;
+    bottom: 900px;
+    width: 10%;
+}
+
+div#quadro1 h2.direita3{  
+    left: 600px;
+    bottom: 1050px;
+}
+
+div#quadro1 p.direita3{ 
+    left: 600px;
+    bottom: 1100px;
+}
+
+
+
+*/
